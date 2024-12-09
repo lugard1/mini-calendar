@@ -41,7 +41,7 @@ For more information on the importance of a professional README for your reposit
 
 # 📗 Table of Contents
 
-- [📖 Mini-Calendar](#-mini-calendar)
+- [📖 Mini-Calendar](#mini-calendar)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
