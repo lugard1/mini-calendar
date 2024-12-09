@@ -54,7 +54,7 @@ For more information on the importance of a professional README for your reposit
   <!-- - [Usage](#usage) -->
   <!-- - [Run tests](#run-tests) -->
   - [Deployment](#deployment)
-- [👥 Authors](#authors)
+- [👤 Author](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -209,7 +209,7 @@ Render
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👤  Author <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
